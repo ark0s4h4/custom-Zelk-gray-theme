@@ -61,7 +61,7 @@
   --background-modifier-selected: var(--accent-color) !important;
   --interactive-selected: var(--background-primary) !important;
   --background-modifier-accent: transparent !important;
-  --background-message-hover: transparent !important;
+  --background-message-hover: #3f3f3f !important;
   --interactive-normal: var(--text-normal) !important;
   --interactive-muted: var(--button-background-active) !important;
   --channels-default: var(--text-muted) !important;
